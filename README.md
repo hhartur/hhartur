@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Bem-vindo ao meu repositório! 🚀<br>
+  Bem-vindo ao meu repositório!<br>
   Aqui você encontrará projetos, estudos e experimentos que desenvolvi ao longo da minha jornada como programador.
 </p>
 
