@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim  
 
-- 💻 Atuo na área de **Backend**  
+- 💻 Atuo na área de **Backend**(pretendo me tornar **FullStack**
 - 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades  
 - 🎯 Focado em criar soluções **eficientes, escaláveis e seguras**  
 
