@@ -29,14 +29,12 @@
 
 ## 📫 Contatos  
 
-<p align="center">
-  <a href="mailto:hharturcarmello@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=npcxyz_&logo=discord&label=DISCORD&color=7289DA&logoColor=white&labelColor=8ca6ff&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="mailto:hharturcarmello@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/users/npcxyz_">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+</div>
 
 ---
 
