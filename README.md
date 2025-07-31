@@ -47,7 +47,7 @@
 ## ⭐ Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arturhenrique&show_icons=true&theme=tokyonight&include_all_commits=true"" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arturhenrique&show_icons=true&theme=tokyonight&include_all_commits=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arturhenrique&theme=tokyonight" height="160"/>
 </p>
 
