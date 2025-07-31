@@ -22,7 +22,7 @@
 ## 🛠️ Tecnologias & Linguagens  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,lua,cpp,github,nodejs" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,lua,cpp,nodejs,github,vscode" alt="Tech Stack" />
 </p>
 
 - **JavaScript / TypeScript**  
@@ -46,9 +46,18 @@
 
 ## ⭐ Estatísticas do GitHub  
 
+ <div align="center">
+  <a href="https://github.com/hhartur">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hhartur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhartur&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 📊 Mais Atividades  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arturhenrique&show_icons=true&theme=tokyonight&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arturhenrique&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arturhenrique&theme=tokyonight" height="180"/>
 </p>
 
 ---
