@@ -22,12 +22,8 @@
 ## 🛠️ Tecnologias & Linguagens  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,lua,cpp,nodejs,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,robloxstudio,cpp,nextjs,nodejs,github,vscode" alt="Tech Stack" />
 </p>
-
-- **JavaScript / TypeScript**  
-- **Lua / LuaU**  
-- **C++**  
 
 ---
 
