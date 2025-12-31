@@ -22,7 +22,9 @@
 ## 🛠️ Tecnologias & Linguagens  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,cpp,nodejs,expressjs,nextjs,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,nodejs,expressjs,nextjs,vscode" alt="Tech Stack" /><br/>
+  <strong>Linguagens/Tecnologias que estou aprendendo</strong><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,clion" alt="Tech Stack" /><br/>
 </p>
 
 ---
