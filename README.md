@@ -1,8 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Artur Henrique</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
-</p>
+<h1 align="center">Olá, eu sou o Artur Henrique</h1>
 
 <p align="center">
   Bem-vindo ao meu repositório!<br>
@@ -11,25 +7,25 @@
 
 ---
 
-## 🚀 Sobre mim  
+## Sobre mim  
 
-- 💻 Atuo na área de **Backend**(pretendo me tornar **FullStack**)
-- 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades  
-- 🎯 Focado em criar soluções **eficientes, escaláveis e seguras**  
+- Atuo na área de **Backend**
+- Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades  
+- Focado em criar soluções **eficientes, escaláveis e seguras**  
 
 ---
 
-## 🛠️ Tecnologias & Linguagens  
+## Tecnologias & Linguagens  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,nodejs,expressjs,nextjs,vscode" alt="Tech Stack" /><br/>
-  <strong>Linguagens/Tecnologias que estou aprendendo</strong><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,clion" alt="Tech Stack" /><br/>
+  <strong>Linguagens que estou atualmente aprendendo</strong><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,java" alt="Tech Stack" /><br/>
 </p>
 
 ---
 
-## 📫 Contatos  
+## Contatos  
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=npcxyz_&logo=discord&label=DISCORD&color=7289DA&logoColor=white&labelColor=8ca6ff&style=for-the-badge" height="25" alt="discord logo"  />
@@ -37,10 +33,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
----
-
-<p align="center">⭐ Se gostou de algum projeto, não esqueça de deixar uma <b>estrela</b> aqui no GitHub!</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
-</p>
