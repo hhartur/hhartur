@@ -1,5 +1,6 @@
 <h1 align="center">Olá, eu sou o Artur Henrique</h1>
-
+ <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+ 
 <p align="center">
   Atualmente sou estudante de informática integrada ao ensino médio.
 </p>
@@ -55,4 +56,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhartur/hhartur/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hhartur/hhartur/output/github-contribution-grid-snake.svg">
 </picture>
- <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
