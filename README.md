@@ -1,8 +1,7 @@
 <h1 align="center">Olá, eu sou o Artur Henrique</h1>
 
 <p align="center">
-  Bem-vindo ao meu repositório!<br>
-  Aqui você encontrará projetos, estudos e experimentos que desenvolvi ao longo da minha jornada como programador.
+  Atualmente sou estudante de informática integrada ao ensino médio.
 </p>
 
 ---
