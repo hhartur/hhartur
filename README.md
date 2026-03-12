@@ -17,7 +17,10 @@
 ## Tecnologias & Linguagens  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,expressjs,nestjs" alt="Tech Stack" /><br/>
+  <strong>Front-end</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs" alt="Tech Stack" /><br/>
+  <strong>Back-end</strong><br/>
+  <img src="https://skillicons.dev/icons?i=expressjs,nestjs" alt="Tech Stack" /><br/>
   <strong>Linguagens que estou atualmente aprendendo</strong><br/>
   <img src="https://skillicons.dev/icons?i=cpp,java" alt="Tech Stack" /><br/>
 </p>
