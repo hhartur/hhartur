@@ -17,12 +17,26 @@
 ## Tecnologias & Linguagens  
 
 <p align="center">
-  <strong>Front-end</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs" alt="Tech Stack" /><br/>
-  <strong>Back-end</strong><br/>
-  <img src="https://skillicons.dev/icons?i=expressjs,nestjs" alt="Tech Stack" /><br/>
-  <strong>Linguagens que estou atualmente aprendendo</strong><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,java" alt="Tech Stack" /><br/>
+<strong>Front-end</strong><br/>
+<iconify-icon icon="devicon:html5" width="40"></iconify-icon>
+<iconify-icon icon="devicon:css3" width="40"></iconify-icon>
+<iconify-icon icon="logos:javascript" width="40"></iconify-icon>
+<iconify-icon icon="logos:typescript-icon" width="40"></iconify-icon>
+<iconify-icon icon="logos:react" width="40"></iconify-icon>
+<iconify-icon icon="logos:nextjs-icon" width="40"></iconify-icon>
+<br/>
+
+<strong>Back-end</strong><br/>
+<iconify-icon icon="skill-icons:expressjs-dark" width="40"></iconify-icon>
+<iconify-icon icon="logos:jwt-icon" width="40"></iconify-icon>
+<iconify-icon icon="logos:prisma" width="40"></iconify-icon>
+<iconify-icon icon="logos:nodejs-icon" width="40"></iconify-icon>
+<iconify-icon icon="logos:nestjs" width="40"></iconify-icon>
+<br/>
+
+<strong>Linguagens que estou atualmente aprendendo</strong><br/>
+<iconify-icon icon="logos:c-plusplus" width="40"></iconify-icon>
+<iconify-icon icon="logos:java" width="40"></iconify-icon>
 </p>
 
 ---
@@ -41,3 +55,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhartur/hhartur/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hhartur/hhartur/output/github-contribution-grid-snake.svg">
 </picture>
+ <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
