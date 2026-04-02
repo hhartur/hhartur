@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/npcxyz__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/hhartur_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur.carmello0@gmail.com)
 
 </div>
